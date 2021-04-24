@@ -3,3 +3,6 @@ def master():
     
 def feature_one():
     print('feature_one_0')
+    
+def feature_two():
+    print('feature_two_0')
